@@ -1,5 +1,12 @@
 # Telco_Customer_Churn_
 **Problem Statement**:-Predicting Customer Churn in a Telecom Company
+![image](https://github.com/faizmamdani/Telco_Customer_Churn_/assets/135321547/454d0233-934e-4cd6-81ab-7899c7eabba3)
+
+![image](https://github.com/faizmamdani/Telco_Customer_Churn_/assets/135321547/89d999fa-d941-49a2-a924-2067d9b92dcf)
+
+
+
+
 
 **Model applying **:-logistic Regression and Support vector machine(SVM)
 
